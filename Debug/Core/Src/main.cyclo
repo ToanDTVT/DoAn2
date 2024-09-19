@@ -1,0 +1,11 @@
+../Core/Src/main.c:104:5:check_pass_to_enter	5
+../Core/Src/main.c:121:5:check_slot_password	6
+../Core/Src/main.c:145:5:delete_password	5
+../Core/Src/main.c:172:5:main	46
+../Core/Src/main.c:431:6:SystemClock_Config	3
+../Core/Src/main.c:471:13:MX_I2C1_Init	2
+../Core/Src/main.c:505:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:538:13:MX_GPIO_Init	1
+../Core/Src/main.c:596:6:HAL_GPIO_EXTI_Callback	3
+../Core/Src/main.c:608:6:HAL_UART_RxCpltCallback	10
+../Core/Src/main.c:652:6:Error_Handler	1

@@ -1,0 +1,2 @@
+../Core/Src/KeyPad.c:19:6:KeyPad_Init	24	static
+../Core/Src/KeyPad.c:81:6:KEYPAD_GetChar	8	static
